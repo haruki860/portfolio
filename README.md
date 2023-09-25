@@ -16,8 +16,8 @@
 # 作品
 ## ホームページ
 ### 概要
-独学で勉強を行い、１つ目の作品として父の会社のホームページを作成しました。
-github https://github.com/haruki860/swell-moter-cycle
+独学で勉強を行い、１つ目の作品として父の会社のホームページを作成しました。  
+github https://github.com/haruki860/swell-moter-cycle  
 作品URL  https://swell-moter-cycle.dt.r.appspot.com
 
 ### 使用技術
