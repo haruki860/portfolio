@@ -28,7 +28,7 @@ github https://github.com/haruki860/swell-moter-cycle
 - AppEngine
 - firebase storage
 
-###　工夫した点
+### 工夫した点
 - react-paginateを使用し、pagination機能を追加しました。
 - 画像をfirebase storageに保存し、表示する際にstorageの画像を全て読み込むことで表示できるようにすることで画像の追加や変更をする際にデプロイし直さなくて良くなりました。
 - レスポンシブに対応できるようにしました。
